@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>es.iessoterohernandez.daw.endes</groupId>
-  <artifactId>TestPersonaBorja</artifactId>
+  <artifactId>TestVideojuegoSerie</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>TestPersonaBorja</name>
+  <name>TestVideojuegoSerie</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
